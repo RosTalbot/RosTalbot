@@ -77,7 +77,7 @@ Managed 800+ podcast episodes and 500+ YouTube videos across multiple brands. He
 
 ## 📬 Let’s Connect
 - 🕸 [LinkedIn](https://www.linkedin.com/in/ros-talbot/) (Message me if you’re building in no-code/AI)
-- 🌐 [RosTalbot.com] (https://rostalbot.com/) — Creative PM portfolio, soon expanding with AI projects
+- 🌐 [RosTalbot.com](https://rostalbot.com/) — Creative PM portfolio, soon expanding with AI projects
 - 🌈 🦄 💻 ☕ 🧠 🌶️
 
 ---

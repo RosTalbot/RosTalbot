@@ -1,13 +1,14 @@
 ## 👋 Hi there, I'm Ros
 
 Currently training AI on brand voice and documenting workflows at a high-growth media company. I’m a Creative Project Manager pivoting into AI-powered systems — quietly, intentionally, and with just enough rebellion to get noticed. 
+
 🌱 Loading: AI Workflow Architect, building smarter systems for content, teams, and growth.
 
 ---
 
 ## 🚀 Strategic Focus
-- No-code AI implementation for creative workflows
-- Workflow architecture that respects brand, tone, and time
+- No-code AI implementation for creative workflows  
+- Workflow architecture that respects brand, tone, and time  
 - Portfolio-ready builds and measurable success metrics
 
 ---
@@ -31,11 +32,11 @@ Currently training AI on brand voice and documenting workflows at a high-growth 
 
 ## 📊 Real-World Impact
 
-### 🤖 Brand Voice Training  
+### 🤖 AI Brand Voice Implementation 
 Built a 10-step iterative ChatGPT system to replicate founder-authored voice with precision — outperformed a Claris-based bot and reduced editorial bottlenecks tied to inconsistent tone.
 
 ### 🧠 Lead Scoring Automation  
-Analyzed 426 leads using AI-assisted workflows, uncovering an 89% database issue. Delivered insights in 24 hours; implemented a 13-day cleanup to restore email deliverability and CRM health.
+Analyzed 426 leads using AI-assisted workflows, uncovered a critical 89% database cleanup requirement. Delivered insights in 24 hours; implemented a 13-day cleanup to restore email deliverability and CRM health.
 
 ### 📈 Content Systems at Scale  
 Managed 800+ podcast episodes and 500+ YouTube videos across multiple brands. Helped scale a YouTube channel from 346 to 83K+ subscribers while maintaining distinct brand tones.
@@ -76,8 +77,8 @@ Managed 800+ podcast episodes and 500+ YouTube videos across multiple brands. He
 ---
 
 ## 📬 Let’s Connect
-- 🕸 [LinkedIn](https://www.linkedin.com/in/ros-talbot/) (Message me if you’re building in no-code/AI)
-- 🌐 [RosTalbot.com](https://rostalbot.com/) — Creative PM portfolio, soon expanding with AI projects
+- 🕸 [LinkedIn](https://www.linkedin.com/in/ros-talbot/) (Message me if you’re building in no-code/AI)  
+- 🌐 [RosTalbot.com](https://www.rostalbot.com) — Creative PM portfolio, soon expanding with AI projects
 - 🌈 🦄 💻 ☕ 🧠 🌶️
 
 ---

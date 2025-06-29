@@ -16,7 +16,7 @@ Currently training AI on brand voice and documenting workflows at a high-growth 
 ## 🔧 What I’m Working On
 
 - 🧠 **Brand Voice Checker AI** — Eliminating content review bottlenecks with Claris-based AI that maintains brand authenticity while enabling team autonomy.
-- 🎬 **AI Content Repurposer** — Replacing clunky AI clip tools (Opus.Pro, I love you but…) with short-form video that actually tells a full story.
+- 🎬 **AI Content Repurposer** — Replacing clunky AI clip tools *(Opus.Pro, I love you but…)* with short-form video that actually tells a full story.
 - 🤖 **n8n Workflow Documentation** — Expanding my YouTube ops experience and documenting real-world automations for portfolio case study #3.
 
 ---

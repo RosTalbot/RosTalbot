@@ -15,9 +15,9 @@ Currently training AI on brand voice and documenting workflows at a high-growth 
 
 ## 🔧 What I’m Working On
 
-- 🧠 **Brand Voice Checker AI** — Eliminating content review bottlenecks with Claris-based AI that maintains brand authenticity while enabling team autonomy.
-- 🎬 **AI Content Repurposer** — Replacing clunky AI clip tools *(Opus.Pro, I love you but…)* with short-form video that actually tells a full story.
-- 🤖 **n8n Workflow Documentation** — Expanding my YouTube ops experience and documenting real-world automations for portfolio case study #3.
+- 🧠 **Brand Voice Checker AI**: Eliminating content review bottlenecks with Claris-based AI that maintains brand authenticity while enabling team autonomy.
+- 🎬 **AI Content Repurposer**: Replacing clunky AI clip tools *(Opus.Pro, I love you but…)* with short-form video that actually tells a full story.
+- 🤖 **n8n Workflow Documentation**: Expanding my YouTube ops experience and documenting real-world automations for portfolio case study #3.
 
 ---
 
@@ -33,7 +33,7 @@ Currently training AI on brand voice and documenting workflows at a high-growth 
 ## 📊 Real-World Impact
 
 ### 🤖 AI Brand Voice Implementation 
-Built a 10-step iterative ChatGPT system to replicate founder-authored voice with precision — outperformed a Claris-based bot and reduced editorial bottlenecks tied to inconsistent tone.
+Built a 10-step iterative ChatGPT system to replicate founder-authored voice with precision, that outperformed a Claris-based bot and reduced editorial bottlenecks tied to inconsistent tone.
 
 ### 🧠 Lead Scoring Automation  
 Analyzed 426 leads using AI-assisted workflows, uncovered a critical 89% database cleanup requirement. Delivered insights in 24 hours; implemented a 13-day cleanup to restore email deliverability and CRM health.
@@ -56,7 +56,7 @@ Managed 800+ podcast episodes and 500+ YouTube videos across multiple brands. He
 
 🛠️ Tools & Platforms
 - AI & Automation: ChatGPT, Claude, Claris, n8n, Whisper
-- Ops & Content: Notion, Asana (Certified Workflow Specialist — yes, it’s a thing), Canva, Google Workspace, Trello, ClickUp
+- Ops & Content: Notion, Asana (Certified Workflow Specialist -> Yes, it’s a thing), Canva, Google Workspace, Trello, ClickUp
 
 ---
 
@@ -83,7 +83,7 @@ Managed 800+ podcast episodes and 500+ YouTube videos across multiple brands. He
 
 ---
 
-🧭 *"If it’s ethical, safe, and you feel it’s best for the relationship or the organization, then do it." — Company value I live by.*
+🧭 *"Go FOr It: If it’s ethical, safe, and you feel it’s best for the relationship or the organization, then do it." — Company value I live by.*
 
 
 <!--

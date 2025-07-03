@@ -29,8 +29,8 @@ Currently training AI on brand voice and documenting workflows at a high-growth 
 - Recent work includes training AI (Claris & ChatGPT) on gritty, founder-led brand voices to avoid content dilution.
 
 ---
-
-## 📊 Real-World Impact
+<details>
+<summary>📊 Real-World Impact</summary>
 
 ### 🤖 AI Brand Voice Implementation 
 Built a 10-step iterative ChatGPT system to replicate founder-authored voice with precision, that outperformed a Claris-based bot and reduced editorial bottlenecks tied to inconsistent tone.
@@ -42,8 +42,10 @@ Analyzed 426 leads using AI-assisted workflows, uncovered a critical 89% databas
 Managed 800+ podcast episodes and 500+ YouTube videos across multiple brands. Helped scale a YouTube channel from 346 to 83K+ subscribers while maintaining distinct brand tones.
 
 ---
+</details>
 
-## 📚 Current Learning Path
+<details>
+<summary>📚 Current Learning Path</summary>
 
 - [x] *AI for Everyone* (Andrew Ng)
 - [x] *ChatGPT at Work* (OpenAI Academy)
@@ -53,14 +55,15 @@ Managed 800+ podcast episodes and 500+ YouTube videos across multiple brands. He
 - and custom AI workflow builds
 
 ---
-
-🛠️ Tools & Platforms
+</details>
+<details> 
+<summary>🛠️ Tools & Platforms</summary>
 - AI & Automation: ChatGPT, Claude, Claris, n8n, Whisper
 - Ops & Content: Notion, Asana (Certified Workflow Specialist -> Yes, it’s a thing), Canva, Google Workspace, Trello, ClickUp
 
 ---
-
-## 🎯 Looking Ahead
+</details> 
+<details><summary>🎯 Looking Ahead</summary>
 
 **Exploring:**
 - AI Workflow Architect
@@ -75,6 +78,7 @@ Managed 800+ podcast episodes and 500+ YouTube videos across multiple brands. He
 - Remote preferred; async welcomed
 
 ---
+</details>
 
 ## 📬 Let’s Connect
 - 🕸 [LinkedIn](https://www.linkedin.com/in/ros-talbot/) (Message me if you’re building in no-code/AI)  
@@ -83,7 +87,7 @@ Managed 800+ podcast episodes and 500+ YouTube videos across multiple brands. He
 
 ---
 
-🧭 *"Go FOr It: If it’s ethical, safe, and you feel it’s best for the relationship or the organization, then do it." — Company value I live by.*
+🧭 *"Go For It: If it’s ethical, safe, and you feel it’s best for the relationship or the organization, then do it." — Company value I live by.*
 
 
 <!--

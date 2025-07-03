@@ -10,6 +10,16 @@ Currently training AI on brand voice and documenting workflows at a high-growth 
 - No-code AI implementation for creative workflows  
 - Workflow architecture that respects brand, tone, and time  
 - Portfolio-ready builds and measurable success metrics
+<p align="center">
+  <img alt="OpenAI" src="https://custom-icon-badges.demolab.com/badge/OpenAI-GPT--4o-000000?logo=openai&logoColor=white&style=for-the-badge">
+  <img alt="Claris AI" src="https://custom-icon-badges.demolab.com/badge/Claris-AI-6E44FF?logo=apple&logoColor=white&style=for-the-badge">
+  <img alt="n8n" src="https://custom-icon-badges.demolab.com/badge/n8n-Automation-EA580C?logo=n8n&logoColor=white&style=for-the-badge">
+  <img alt="Zapier" src="https://custom-icon-badges.demolab.com/badge/Zapier-Workflows-FF4A00?logo=zapier&logoColor=white&style=for-the-badge">
+  <img alt="Airtable" src="https://custom-icon-badges.demolab.com/badge/Airtable-Database-18BFFF?logo=airtable&logoColor=white&style=for-the-badge">
+  <img alt="Notion" src="https://custom-icon-badges.demolab.com/badge/Notion-Docs-000000?logo=notion&logoColor=white&style=for-the-badge">
+  <img alt="Trello" src="https://custom-icon-badges.demolab.com/badge/Trello-Visual_PM-0079BF?logo=trello&logoColor=white&style=for-the-badge">
+  <img alt="Canva" src="https://custom-icon-badges.demolab.com/badge/Canva-Design-00C4CC?logo=canva&logoColor=white&style=for-the-badge">
+</p>
 
 ---
 
@@ -29,8 +39,9 @@ Currently training AI on brand voice and documenting workflows at a high-growth 
 - Recent work includes training AI (Claris & ChatGPT) on gritty, founder-led brand voices to avoid content dilution.
 
 ---
+## 📊 Real-World Impact
 <details>
-<summary>📊 Real-World Impact</summary>
+<summary>Click to expand</summary>
 
 ### 🤖 AI Brand Voice Implementation 
 Built a 10-step iterative ChatGPT system to replicate founder-authored voice with precision, that outperformed a Claris-based bot and reduced editorial bottlenecks tied to inconsistent tone.
@@ -44,9 +55,10 @@ Managed 800+ podcast episodes and 500+ YouTube videos across multiple brands. He
 ---
 </details>
 
+## 📚 Current Learning Path
 <details>
-<summary>📚 Current Learning Path</summary>
-
+<summary>Click to expand</summary>
+  
 - [x] *AI for Everyone* (Andrew Ng)
 - [x] *ChatGPT at Work* (OpenAI Academy)
 - [x] *GPT‑4o for Business*
@@ -56,14 +68,19 @@ Managed 800+ podcast episodes and 500+ YouTube videos across multiple brands. He
 
 ---
 </details>
+
+## 🛠️ Tools & Platforms
 <details> 
-<summary>🛠️ Tools & Platforms</summary>
+<summary>Click to expand</summary>
+
 - AI & Automation: ChatGPT, Claude, Claris, n8n, Whisper
 - Ops & Content: Notion, Asana (Certified Workflow Specialist -> Yes, it’s a thing), Canva, Google Workspace, Trello, ClickUp
 
 ---
 </details> 
-<details><summary>🎯 Looking Ahead</summary>
+
+## 🎯 Looking Ahead
+<details><summary>Click to expand</summary>
 
 **Exploring:**
 - AI Workflow Architect

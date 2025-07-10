@@ -16,27 +16,24 @@ Currently training AI on brand voice and documenting workflows at a high-growth 
   <img alt="n8n" src="https://custom-icon-badges.demolab.com/badge/n8n-Automation-EA580C?logo=n8n&logoColor=white&style=for-the-badge">
   <img alt="Zapier" src="https://custom-icon-badges.demolab.com/badge/Zapier-Workflows-FF4A00?logo=zapier&logoColor=white&style=for-the-badge">
   <img alt="Airtable" src="https://custom-icon-badges.demolab.com/badge/Airtable-Database-18BFFF?logo=airtable&logoColor=white&style=for-the-badge">
-  <img alt="Notion" src="https://custom-icon-badges.demolab.com/badge/Notion-Docs-000000?logo=notion&logoColor=white&style=for-the-badge">
-  <img alt="Trello" src="https://custom-icon-badges.demolab.com/badge/Trello-Visual_PM-0079BF?logo=trello&logoColor=white&style=for-the-badge">
-  <img alt="Canva" src="https://custom-icon-badges.demolab.com/badge/Canva-Design-00C4CC?logo=canva&logoColor=white&style=for-the-badge">
 </p>
 
 ---
 
 ## 🔧 What I’m Working On
 
-- 🧠 **Brand Voice Checker AI**: Eliminating content review bottlenecks with Claris-based AI that maintains brand authenticity while enabling team autonomy.
-- 🎬 **AI Content Repurposer**: Replacing clunky AI clip tools *(Opus.Pro, I love you but…)* with short-form video that actually tells a full story.
-- 🤖 **n8n Workflow Documentation**: Expanding my YouTube ops experience and documenting real-world automations for portfolio case study #3.
+- 🧠 **Brand Voice Checker AI**: Solving review bottlenecks with a Claris-trained AI that preserves brand tone while giving teams more autonomy.
+- 🎬 **AI Content Repurposer**: Ditching clunky clip tools _(Opus.Pro, I love you but…)_ to generate short-form content that actually tells a story.
+- 🤖 **n8n Workflow Documentation**: Practicing real-world automations and documenting system logic as part of my AI toolstack development.
 
 ---
 
 ## 🎯 My Background
 
-- 9+ years as a founding creative team member scaling a podcast/YouTube/media empire to 80K+ subscribers.
-- 800+ podcast episodes produced, 500+ YouTube videos reviewed, 1,000+ contractors trained via online programs.
-- Oversaw multi-brand content ecosystems with radically different voices, vibes, and conversion paths.
-- Recent work includes training AI (Claris & ChatGPT) on gritty, founder-led brand voices to avoid content dilution.
+- 9+ years on the founding team of a high-growth podcast/YouTube/media brand scaled to 80K+ subscribers.
+- Produced 800+ podcast episodes, reviewed 500+ YouTube videos, trained 1,000+ contractors in online programs.
+- Built and managed multi-brand content systems with radically different voices, vibes, and sales journeys.
+- Recent focus: training AI (Claris & ChatGPT) to generate gritty, founder-led content without diluting brand identity.
 
 ---
 ## 📊 Real-World Impact
@@ -44,13 +41,13 @@ Currently training AI on brand voice and documenting workflows at a high-growth 
 <summary>Click to expand</summary>
 
 ### 🤖 AI Brand Voice Implementation 
-Built a 10-step iterative ChatGPT system to replicate founder-authored voice with precision, that outperformed a Claris-based bot and reduced editorial bottlenecks tied to inconsistent tone.
+Built and trained an iterative ChatGPT system to replicate a founder’s gritty, emotional tone, outperforming prior tools (including Claris) and cutting review time in half across long-form content.
 
 ### 🧠 Lead Scoring Automation  
-Analyzed 426 leads using AI-assisted workflows, uncovered a critical 89% database cleanup requirement. Delivered insights in 24 hours; implemented a 13-day cleanup to restore email deliverability and CRM health.
+Used AI-assisted analysis to audit 426 leads, uncovering a critical 89% database cleanup need. Delivered insights in 24 hours and executed a 13-day remediation plan to restore CRM health and email deliverability.
 
 ### 📈 Content Systems at Scale  
-Managed 800+ podcast episodes and 500+ YouTube videos across multiple brands. Helped scale a YouTube channel from 346 to 83K+ subscribers while maintaining distinct brand tones.
+Produced over 800 podcast episodes and 500+ YouTube videos across multi-brand ecosystems. Scaled one channel from 346 to 83K+ subscribers while preserving distinct voice and platform strategy.
 
 ---
 </details>
@@ -59,12 +56,16 @@ Managed 800+ podcast episodes and 500+ YouTube videos across multiple brands. He
 <details>
 <summary>Click to expand</summary>
   
-- [x] *AI for Everyone* (Andrew Ng)
+- [x] *AI for Everyone* (Andrew Ng/DeepLearning.AI)
 - [x] *ChatGPT at Work* (OpenAI Academy)
-- [x] *GPT‑4o for Business*
+- [x] *GPT‑4o for Business* (OpenAI Academy)
+- [ ] *Prompt Engineering with IBM*
 - [ ] *Google GenAI for PMs*
-- [ ] *IBM Prompt Engineering*
-- and custom AI workflow builds
+- [ ] *Building Systems with the ChatGPT API (DeepLearning.AI)*
+- [ ] *Ai Agents (HuggingFace)*
+- [ ] *Post-Training of LLMs (DeepLearning.AI)*
+- [ ] *Microsoft AI Agents for Beginners*
+- and custom AI workflow builds using n8n, Claris, and custom JSON pipelines
 
 ---
 </details>
@@ -87,7 +88,7 @@ Managed 800+ podcast episodes and 500+ YouTube videos across multiple brands. He
 - AI Content Strategist
 - No-Code AI Developer / PromptOps
 - AI Technical Writer
-- Creative Ops meets Automation & AI
+- Creative Ops + Automation
 
 **Ideal Work:**
 - Low-meeting, high-autonomy teams
@@ -104,7 +105,7 @@ Managed 800+ podcast episodes and 500+ YouTube videos across multiple brands. He
 
 ---
 
-🧭 *"Go For It: If it’s ethical, safe, and you feel it’s best for the relationship or the organization, then do it." — Company value I live by.*
+🔥 *Do what you’re made for - and you’ll still work your ass off… but it’ll finally feel like it’s worth it.”*
 
 
 <!--

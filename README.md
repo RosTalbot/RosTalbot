@@ -57,14 +57,12 @@ Produced over 800 podcast episodes and 500+ YouTube videos across multi-brand ec
 <summary>Click to expand</summary>
   
 - [x] *AI for Everyone* (Andrew Ng/DeepLearning.AI)
-- [x] *ChatGPT at Work* (OpenAI Academy)
-- [x] *GPT‑4o for Business* (OpenAI Academy)
-- [ ] *Prompt Engineering with IBM*
-- [ ] *Google GenAI for PMs*
+- [x] *Generative AI: Prompt Engineering Basics* (IBM/Coursera)
+- [x] *OpenAI GPTs: Creating Your Own Custom AI Assistants* (Vanderbilt University)
 - [ ] *Building Systems with the ChatGPT API (DeepLearning.AI)*
+- [ ] *GPT‑4o for Business* (OpenAI Academy)
 - [ ] *Ai Agents (HuggingFace)*
 - [ ] *Post-Training of LLMs (DeepLearning.AI)*
-- [ ] *Microsoft AI Agents for Beginners*
 - and custom AI workflow builds using n8n, Claris, and custom JSON pipelines
 
 ---

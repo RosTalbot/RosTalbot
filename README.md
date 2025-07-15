@@ -24,11 +24,11 @@ Currently designing AI-powered content systems and documenting automation workfl
 
 ## 🔧 What I’m Working On
 
-- 🧠 [**Brand Voice Trainer** 🗣️🤖](https://github.com/RosTalbot/brand-voice-trainer): Solving review bottlenecks with a Claris-trained AI that preserves brand tone while giving teams more autonomy.
+- 🗣️🤖 [**Brand Voice Trainer**](https://github.com/RosTalbot/brand-voice-trainer): Solving review bottlenecks with a Claris-trained AI that preserves brand tone while giving teams more autonomy.
 
-- 🎬 [**Content Repurposer AI** 🎬✨](https://github.com/RosTalbot/content-repurposer-ai): Ditching clunky clip tools _(Opus.Pro, I love you but…)_ to generate short-form content that actually tells a story.
+- 🎬✨ [**Content Repurposer AI**](https://github.com/RosTalbot/content-repurposer-ai): Ditching clunky clip tools _(Opus.Pro, I love you but…)_ to generate short-form content that actually tells a story.
 
-- 🎙️ [**PromoFlow AI** 🎙️🌊](https://github.com/RosTalbot/promoflow-ai): Automates podcast asset generation (thumbnails, clips, captions) with a prompt-chained GPT system and human-in-the-loop QA.
+- 🎙️🌊 [**PromoFlow AI**](https://github.com/RosTalbot/promoflow-ai): Automates podcast asset generation (thumbnails, clips, captions) with a prompt-chained GPT system and human-in-the-loop QA.
 
 ---
 

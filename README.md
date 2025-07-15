@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Ros
 
-Currently training AI on brand voice and documenting workflows at a high-growth media company. I’m a Creative Project Manager pivoting into AI-powered systems — quietly, intentionally, and with just enough rebellion to get noticed. 
+Currently designing AI-powered content systems and documenting automation workflows for a high-growth media company. I’m a Creative Project Manager pivoting into AI-powered systems — quietly, intentionally, and with just enough rebellion to get noticed. 
 
 🌱 Loading: AI Workflow Architect, building smarter systems for content, teams, and growth.
 
@@ -10,6 +10,8 @@ Currently training AI on brand voice and documenting workflows at a high-growth 
 - No-code AI implementation for creative workflows  
 - Workflow architecture that respects brand, tone, and time  
 - Portfolio-ready builds and measurable success metrics
+- Modular AI tools for brand voice, promo flow, and repurposing
+- System design that scales human creativity, not replaces it
 <p align="center">
   <img alt="OpenAI" src="https://custom-icon-badges.demolab.com/badge/OpenAI-GPT--4o-000000?logo=openai&logoColor=white&style=for-the-badge">
   <img alt="Claris AI" src="https://custom-icon-badges.demolab.com/badge/Claris-AI-6E44FF?logo=apple&logoColor=white&style=for-the-badge">
@@ -22,9 +24,11 @@ Currently training AI on brand voice and documenting workflows at a high-growth 
 
 ## 🔧 What I’m Working On
 
-- 🧠 **Brand Voice Checker AI**: Solving review bottlenecks with a Claris-trained AI that preserves brand tone while giving teams more autonomy.
-- 🎬 **AI Content Repurposer**: Ditching clunky clip tools _(Opus.Pro, I love you but…)_ to generate short-form content that actually tells a story.
-- 🤖 **n8n Workflow Documentation**: Practicing real-world automations and documenting system logic as part of my AI toolstack development.
+- 🧠 [**Brand Voice Trainer** 🗣️🤖](https://github.com/RosTalbot/brand-voice-trainer): Solving review bottlenecks with a Claris-trained AI that preserves brand tone while giving teams more autonomy.
+
+- 🎬 [**Content Repurposer AI** 🎬✨](https://github.com/RosTalbot/content-repurposer-ai): Ditching clunky clip tools _(Opus.Pro, I love you but…)_ to generate short-form content that actually tells a story.
+
+- 🎙️ [**PromoFlow AI** 🎙️🌊](https://github.com/RosTalbot/promoflow-ai): Automates podcast asset generation (thumbnails, clips, captions) with a prompt-chained GPT system and human-in-the-loop QA.
 
 ---
 
@@ -83,6 +87,7 @@ Produced over 800 podcast episodes and 500+ YouTube videos across multi-brand ec
 
 **Exploring:**
 - AI Workflow Architect
+- AI Agent Engineer
 - AI Content Strategist
 - No-Code AI Developer / PromptOps
 - AI Technical Writer

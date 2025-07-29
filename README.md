@@ -14,7 +14,6 @@ Currently designing AI-powered content systems and documenting automation workfl
 - System design that scales human creativity, not replaces it
 <p align="center">
   <img alt="OpenAI" src="https://custom-icon-badges.demolab.com/badge/OpenAI-GPT--4o-000000?logo=openai&logoColor=white&style=for-the-badge">
-  <img alt="Claris AI" src="https://custom-icon-badges.demolab.com/badge/Claris-AI-6E44FF?logo=apple&logoColor=white&style=for-the-badge">
   <img alt="n8n" src="https://custom-icon-badges.demolab.com/badge/n8n-Automation-EA580C?logo=n8n&logoColor=white&style=for-the-badge">
   <img alt="Zapier" src="https://custom-icon-badges.demolab.com/badge/Zapier-Workflows-FF4A00?logo=zapier&logoColor=white&style=for-the-badge">
   <img alt="Airtable" src="https://custom-icon-badges.demolab.com/badge/Airtable-Database-18BFFF?logo=airtable&logoColor=white&style=for-the-badge">
@@ -24,11 +23,11 @@ Currently designing AI-powered content systems and documenting automation workfl
 
 ## 🔧 What I’m Working On
 
-- 🗣️🤖 [**Brand Voice Trainer**](https://github.com/RosTalbot/brand-voice-trainer): Solving review bottlenecks with a Claris-trained AI that preserves brand tone while giving teams more autonomy.
+- 🗣️🤖 [**Brand Voice Trainer**](https://github.com/RosTalbot/brand-voice-trainer): Solving review bottlenecks with a custom GPT-4 assistant trained on brand voice frameworks to support autonomous content creation.
 
 - 🎬✨ [**Content Repurposer AI**](https://github.com/RosTalbot/content-repurposer-ai): Ditching clunky clip tools _(Opus.Pro, I love you but…)_ to generate short-form content that actually tells a story.
 
-- 🎙️🌊 [**PromoFlow AI**](https://github.com/RosTalbot/promoflow-ai): Automates podcast asset generation (thumbnails, clips, captions) with a prompt-chained GPT system and human-in-the-loop QA.
+- 🎙️🌊 [**PromoFlow AI**](https://github.com/RosTalbot/promoflow-ai): Automating podcast promo creation with AI — titles, thumbnails, reels, and more — from long-form content.
 
 ---
 
@@ -37,7 +36,7 @@ Currently designing AI-powered content systems and documenting automation workfl
 - 9+ years on the founding team of a high-growth podcast/YouTube/media brand scaled to 80K+ subscribers.
 - Produced 800+ podcast episodes, reviewed 500+ YouTube videos, trained 1,000+ contractors in online programs.
 - Built and managed multi-brand content systems with radically different voices, vibes, and sales journeys.
-- Recent focus: training AI (Claris & ChatGPT) to generate gritty, founder-led content without diluting brand identity.
+- Recent focus: Fine-tuning AI outputs (via ChatGPT + system prompts) to replicate gritty, founder-driven content without losing narrative edge or voice consistency.
 
 ---
 ## 📊 Real-World Impact
@@ -45,7 +44,7 @@ Currently designing AI-powered content systems and documenting automation workfl
 <summary>Click to expand</summary>
 
 ### 🤖 AI Brand Voice Implementation 
-Built and trained an iterative ChatGPT system to replicate a founder’s gritty, emotional tone, outperforming prior tools (including Claris) and cutting review time in half across long-form content.
+Built and iteratively trained a custom ChatGPT workflow to replicate gritty, founder-led tone. Cut review time in half and improved alignment across podcast, email, and social content.
 
 ### 🧠 Lead Scoring Automation  
 Used AI-assisted analysis to audit 426 leads, uncovering a critical 89% database cleanup need. Delivered insights in 24 hours and executed a 13-day remediation plan to restore CRM health and email deliverability.
@@ -76,8 +75,9 @@ Produced over 800 podcast episodes and 500+ YouTube videos across multi-brand ec
 <details> 
 <summary>Click to expand</summary>
 
-- AI & Automation: ChatGPT, Claude, Claris, n8n, Whisper
+- AI & Automation: ChatGPT, Claude, n8n, Whisper, Replit (light use), JSON
 - Ops & Content: Notion, Asana (Certified Workflow Specialist -> Yes, it’s a thing), Canva, Google Workspace, Trello, ClickUp
+- Creative & Visuals: Canva, Descript, Figma (light use), Frame.io
 
 ---
 </details> 
@@ -87,11 +87,13 @@ Produced over 800 podcast episodes and 500+ YouTube videos across multi-brand ec
 
 **Exploring:**
 - AI Workflow Architect
-- AI Agent Engineer
-- AI Content Strategist
+- AI Prototyper
+- AI-Powered Content Systems Strategist
 - No-Code AI Developer / PromptOps
-- AI Technical Writer
+- AI Prompt Documentation Lead
+- AI Solutions Consultant (No-Code)
 - Creative Ops + Automation
+- AI Product Researcher / Prototyping Strategist
 
 **Ideal Work:**
 - Low-meeting, high-autonomy teams

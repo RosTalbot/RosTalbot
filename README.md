@@ -9,7 +9,7 @@ Currently shipping **agent-first AI tools** that blend precision prompts, modula
 
 | Tool | What It Does |
 |------|---------------|
-| [🧪 PromptAlchemy](https://github.com/RosTalbot/PromptAlchemy) | Multi-agent QA system for organizing, refining, and stress-testing GPT prompts |
+| [🧪 PromptAlchemy](https://github.com/RosTalbot/prompt-alchemy)) | Multi-agent QA system for organizing, refining, and stress-testing GPT prompts |
 | [🗣️ Brand Voice Trainer](https://github.com/RosTalbot/brand-voice-trainer) | Aligns AI output with founder tone using prompt chains + training data |
 | [🎙 PromoFlow AI](https://github.com/RosTalbot/promoflow-ai) | Turns long-form podcast episodes into short-form content assets (JSON + social-ready outputs) |
 | [🤖 BriefBot](https://github.com/RosTalbot/briefbot) | Converts messy creative input into structured, prompt-ready creative briefs |

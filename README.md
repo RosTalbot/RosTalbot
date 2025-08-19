@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ros Talbot
+# 👋 Hi, I'm Ros
 Creative Project Manager turned **AI Workflow Architect** — designing prompt-powered systems for content ops, marketing automation, and brand voice alignment.
 
 Currently shipping **agent-first AI tools** that blend precision prompts, modular logic, and real-world use cases. Built with ✨ curiosity, rebellion, and zero tolerance for vague content.
